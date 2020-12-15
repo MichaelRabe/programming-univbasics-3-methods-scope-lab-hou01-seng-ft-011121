@@ -2,7 +2,6 @@ def all_phrases
   mario
   toadstool
   link
-  puts all-phrases
 end
   
 def mario (phrase = "It's a me, Mario!")
