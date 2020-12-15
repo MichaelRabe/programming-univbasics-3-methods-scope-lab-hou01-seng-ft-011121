@@ -2,6 +2,7 @@ def all_phrases
   mario
   toadstool
   link
+  puts all_phrases
   
 def mario
   phrase = "It's-a me, Mario!"
